@@ -342,7 +342,7 @@
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
                 </span>
-                <span class="block-20__person-name my-1">Ali Boukeroui</span>
+                <span class="block-20__person-name my-1">Joseph Dominic Apolto</span>
                 <span class="block-20__person-info">indiehackers.com</span>
               </div>
             </div>
@@ -371,7 +371,7 @@
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
                 </span>
-                <span class="block-20__person-name my-1">Ali Boukeroui</span>
+                <span class="block-20__person-name my-1">Joseph Dominic Apolto</span>
                 <span class="block-20__person-info">indiehackers.com</span>
               </div>
             </div>
@@ -400,7 +400,7 @@
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
                 </span>
-                <span class="block-20__person-name my-1">Ali Boukeroui</span>
+                <span class="block-20__person-name my-1">Joseph Dominic Apolto</span>
                 <span class="block-20__person-info">indiehackers.com</span>
               </div>
             </div>
@@ -436,7 +436,7 @@
               scrambled it to make a type specimen book.
             </p>
             <div class="flex-grow-1 d-flex flex-column mb-3">
-              <span class="person__name">Ali Boukeroui</span>
+              <span class="person__name">Joseph Dominic Apolto</span>
               <span class="person__info my-1">indiehackers.com</span>
               <span class="person__rating">
                 <i class="fas fa-star"></i>
